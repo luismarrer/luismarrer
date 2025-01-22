@@ -1,4 +1,4 @@
-# Hi there, I'm Luis Marrero 👋 🧑‍💻
+# Hi there, I'm Luis Marrero 👋 🧑‍💻 | Developer
 
 Welcome to my Github Profile 🐙😺
 
@@ -21,19 +21,28 @@ Welcome to my Github Profile 🐙😺
 - 📷 [Instagram](https://www.instagram.com/lmarrero1070/)
 - 🎨 [Codepen](https://codepen.io/Luis-Marrero-the-animator)
 
-## Languages and Tools
+## Languages and Tools I Use
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+<div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
+   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" height="30">
+   &nbsp;&nbsp;
 </div>
 
-## Currently Using
+## My Current Learning Stack
 
-- 📖 SoloLearn  
-- 🗣️ Duolingo  
+I like to use these apps to play games and learn new things.
+
+- 📖 SoloLearn
+- 🗣️ Duolingo: try @luis_marrer
