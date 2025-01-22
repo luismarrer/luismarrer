@@ -7,7 +7,7 @@ Welcome to my Github Profile 🐙😺
 - 🌱 I’m currently learning Astro
 - 👯 I'm looking to collaborate, for now, on amazing constructions
 - 💬 Ask me about C, Linux, Open Source
-- 📫 How to reach me: lmarrero1070@gmail.com
+- 📫 How to reach me: <lmarrero1070@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 1 + 1 = 10 is my kind of math
 
@@ -23,8 +23,8 @@ Welcome to my Github Profile 🐙😺
 
 ## Languages and Tools
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30" style="margin: 80px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
@@ -35,3 +35,5 @@ Welcome to my Github Profile 🐙😺
 
 ## Currently Using
 
+- 📖 SoloLearn  
+- 🗣️ Duolingo  
