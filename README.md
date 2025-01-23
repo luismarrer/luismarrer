@@ -9,7 +9,7 @@ Welcome to my Github Profile 🐙😺
 - 💬 Ask me about C, Linux, Open Source
 - 📫 How to reach me: <lmarrero1070@gmail.com>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 1 + 1 = 10 is my kind of math
+- ⚡ Fun fact: 1 + 1 = 10 is my kind of math (Binary is cool 🤓)
 
 ## Connect
 
@@ -44,5 +44,9 @@ Welcome to my Github Profile 🐙😺
 
 I like to use these apps to play games and learn new things.
 
-- 📖 SoloLearn
-- 🗣️ Duolingo: try @luis_marrer
+- 📖 SoloLearn: [my profile](https://www.sololearn.com/profile/31630102/?ref=app)
+- 🗣️ Duolingo: try [@luis_marrer](https://www.duolingo.com/profile/luis_marrer?via=share_profile_link)
+
+<!--
+- 🤔 I’m looking for help with 
+-->
