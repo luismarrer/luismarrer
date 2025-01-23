@@ -1,6 +1,6 @@
 # Hi there, I'm Luis Marrero 👋 🧑‍💻 | Developer
 
-Welcome to my Github Profile 🐙😺
+## Welcome to my Github Profile 🐙😺
 
 - 🇵🇷 I'm from Puerto Rico
 - 🔭 I’m currently working on [my portfolio](https://luismarrer.github.io/)
