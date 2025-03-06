@@ -39,6 +39,8 @@
    &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" height="30">
    &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-005C84?style=flat&logo=mysql&logoColor=white" alt="SQL" height="30">
+   &nbsp;&nbsp;
 </div>
 
 ## My Current Learning Stack
