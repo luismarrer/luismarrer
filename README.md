@@ -3,7 +3,7 @@
 ## Welcome to my Github Profile 🐙😺
 
 - 🇵🇷 I'm from Puerto Rico
-- 🔭 I’m currently working on [my portfolio](https://luismarrer.github.io/)
+- 🔭 I’m currently working on [my portfolio](https://luismarrer.github.io/en)
 - 🌱 I’m currently learning Astro
 - 👯 I'm looking to collaborate, for now, on amazing constructions
 - 💬 Ask me about C, Linux, Open Source
