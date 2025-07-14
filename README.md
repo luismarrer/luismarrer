@@ -14,7 +14,7 @@
 ## Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luismarrer/)
-- 🐦 [X (Twitter)](https://x.com/lmarrero1070)
+- 🐦 [X (Twitter)](https://x.com/luismarrer_dev)
 - 🌌 [BlueSky](https://bsky.app/profile/lmarrer.bsky.social)
 - 🐘 [Mastodon](https://mastodon.social/@luis_marrer)
 - 🧵 [Threads](https://www.threads.net/@luis.marrer)
