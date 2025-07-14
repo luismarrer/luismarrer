@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Astro
 - 👯 I'm looking to collaborate, for now, on amazing constructions
 - 💬 Ask me about C, Linux, Open Source
-- 📫 How to reach me: <lmarrero1070@gmail.com>
+- 📫 How to reach me: <luismarrer.dev@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 1 + 1 = 10 is my kind of math (Binary is cool 🤓)
 
