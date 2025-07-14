@@ -20,7 +20,7 @@
 - 🧵 [Threads](https://www.threads.net/@luis.marrer)
 - 📷 [Instagram](https://www.instagram.com/luis.marrer/)
 - 🎨 [Codepen](https://codepen.io/Luis-Marrero-the-animator)
-- 📐 [Figma](https://www.figma.com/@lmarrero1070)
+- 📐 [Figma](https://www.figma.com/@luismarrer)
 
 ## Languages and Tools I Use
 
