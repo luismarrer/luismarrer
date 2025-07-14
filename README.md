@@ -13,7 +13,7 @@
 
 ## Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-marr/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luismarrer/)
 - 🐦 [X (Twitter)](https://x.com/lmarrero1070)
 - 🌌 [BlueSky](https://bsky.app/profile/lmarrer.bsky.social)
 - 🐘 [Mastodon](https://mastodon.social/@luis_marrer)
